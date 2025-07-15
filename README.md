@@ -5,15 +5,13 @@ Here are +367 different RATs with different versions and some with source code.
  
 # 🔗 My Social & Developer Profiles.   
 
+📸Instagram:    https://www.instagram.com/hyper_r7100?igsh
 
-
-# 📸Instagram:    https://www.instagram.com/hyper_r7100?igsh
-
-# 🐦X(Twitter):                        https://x.com/HYPER390961?t=L5dnZf4MIu 
+🐦X(Twitter):                        https://x.com/HYPER390961?t=L5dnZf4MIu 
     
-# ✈️Telegram:                          https://t.me/hyper_r7100               
+✈️Telegram:                          https://t.me/hyper_r7100               
     
-# 🎮Discord:                           https://discord.gg/gdd6cKMBb
+🎮Discord:                           https://discord.gg/gdd6cKMBb
     
 
 
