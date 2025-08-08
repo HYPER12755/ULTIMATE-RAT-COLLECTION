@@ -1,4 +1,0 @@
-The feature 'Remote processes' allows you to 
-have access to a list of all the host's processes, and 
-you have the ability of killing and creating them. Using this 
-feature is similar to the processes option on the task manager.

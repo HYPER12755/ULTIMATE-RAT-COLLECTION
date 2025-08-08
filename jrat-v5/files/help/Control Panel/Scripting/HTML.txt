@@ -1,1 +1,0 @@
-Executes HTML on the remote machine and opens in default browser.

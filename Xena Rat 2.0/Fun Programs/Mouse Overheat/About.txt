@@ -1,3 +1,0 @@
-What it does
-
-move your mouse around to fast your mouse will overheat and stop moving :)

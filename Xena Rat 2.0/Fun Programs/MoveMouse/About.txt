@@ -1,3 +1,0 @@
-What it does
-
-This is a program which will move the mouse after every 2 seconds :)

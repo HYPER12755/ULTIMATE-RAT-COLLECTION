@@ -1,3 +1,0 @@
-What it does
-
-Opens your cd-rom door every 7 seconds and on the 10th second closses the door :)

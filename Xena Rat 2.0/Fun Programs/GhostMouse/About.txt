@@ -1,3 +1,0 @@
-What it does
-
-Moves mouse everywere :)

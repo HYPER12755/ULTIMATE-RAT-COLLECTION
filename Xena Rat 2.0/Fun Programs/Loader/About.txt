@@ -1,3 +1,0 @@
-What this does
-
-This loads elipses with widths and hights from 0 to 20 where ever your mouse moves.

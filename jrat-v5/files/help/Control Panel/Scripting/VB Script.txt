@@ -1,1 +1,0 @@
-Executes Visual Basic Script on the remote machine.

@@ -1,4 +1,0 @@
-What it does
-
-
-Makes the screen very ghostly :)

@@ -1,3 +1,0 @@
-Gives you a list of the services installed 
-onto the host's computer at any given time. 
-They can be cleared with the 'clear' (not deleting) button if needed.
