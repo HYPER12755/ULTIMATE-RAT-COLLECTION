@@ -1,30 +1,46 @@
 <p align="center">
-<img width="152" height="152" src="https://github.com/user-attachments/assets/9f6953de-0437-4435-a817-3a7619a6af09"><br>
-<img alt="Repo Size" src="https://img.shields.io/github/repo-size/ULTIMATE-RAT-COLLECTION"> <img alt="Last Commit" src="https://img.shields.io/github/last-commit/ULTIMATE-RAT-COLLECTION">
-</p> <!-- Excuse this chunky part, i'm terrible at markdown. But hopefully this redesign is good enough. --!>
+  <img width="152" height="152" src="https://github.com/user-attachments/assets/9f6953de-0437-4435-a817-3a7619a6af09"><br>
+  <img alt="Repo Size" src="https://img.shields.io/github/repo-size/HYPER12755/ULTIMATE-RAT-COLLECTION?cacheSeconds=30"> 
+  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/HYPER12755/ULTIMATE-RAT-COLLECTION/main?cacheSeconds=30">
+  <img alt="GitHub Stars" src="https://img.shields.io/github/stars/HYPER12755/ULTIMATE-RAT-COLLECTION?style=social">
+</p>
 
-<h1 align="center">Archive password: infected</h1><br>
+<h1 align="center">Archive Password: infected</h1>
 
 > [!CAUTION]
-> These samples should **not** be ran on any machine with data you care about.  
-> Please analyze them within a secure environment such as a virtual machine or sandbox.
+> ⚠️ **Warning:** These samples contain genuine malware builders and RATs.  
+> Do **NOT** run them on any active system. Always use a secure, isolated environment (such as a **Virtual Machine** or **sandbox**) when testing or analyzing.
 
-> [!NOTE]  
-> If you have any new samples, all contributions are fully welcomed.  
-> Please open a pull request with the new sample if you are interested.  
+> [!NOTE]
+> 💡 Got a new sample? Contributions are welcome!  
+> Open a **pull request** with details or files you’d like to share.
 
-> [!TIP]  
-> Some much larger samples are split into several parts.  
-> Please use [7-Zip](https://www.7-zip.org/download.html) to extract these split archives without issues.
+> [!TIP]
+> 📦 Some large archives are split into multiple parts.  
+> Use [7-Zip](https://www.7-zip.org/download.html) to extract them properly without issues.
 
-<h1></h1>
+---
 
-**Disclaimer:**
-> This repo contains genuine malware builders. Do not run them on your system unless you fully know what you're doing. You should use a isolated test environment (eg: VM, sandbox) to research, analyze or reverse engineer these samples. By downloading any samples, you accept full responsibility and agree to use the contents legally and ethically.  
+## 🧠 About
+This repository is a **research archive** containing a wide variety of **Remote Access Tools (RATs)**, **stealers**, and other malware builders — preserved for **educational and cybersecurity analysis purposes only**.
 
+The goal is to help malware analysts, ethical hackers, and reverse engineers:
+- Understand malware structures and obfuscation techniques.
+- Learn behavioral patterns for defensive security.
+- Research the evolution of RAT tools.
 
-> **Important — research use only.** The materials referenced in this repository are provided strictly for defensive research, education, and analysis. Do **not** use them for attacking, accessing, or damaging systems. Only handle samples in legally permitted, isolated lab environments (for example, offline VMs or dedicated sandboxes). By following external links or downloading content you confirm you will obey applicable laws and accept full responsibility for your actions.
+---
 
+## ⚔️ Disclaimer
+> This repository contains real and potentially dangerous files.  
+> By downloading or interacting with this repo, **you acknowledge that you are doing so at your own risk**.  
+> All materials are shared for **educational and research purposes only**, under the assumption you will:
+> - Operate inside isolated virtual environments.
+> - Comply with all local laws and regulations.
+> - Use the materials **ethically** and **legally** for cybersecurity education.
 
+**I am not responsible for any damage caused by misuse of the contents in this repository.**
+
+---
 
 [MY-SOCIAL-MEDIA-ACCOUNTS](https://hyper12755.github.io/MY-SOCIAL-MEDIA-ACCOUNTS/)
